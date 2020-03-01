@@ -3,4 +3,4 @@ Spring &amp; Thymeleaf based app to report statuses of Corona spread in last 24 
 
 ![Image description](link-to-image)
 
-![Alt text](src/main/resources/screenshots/corona.png?raw=true "Corona")
+![Alt text](src/main/resources/scorona.png?raw=true "Corona")
