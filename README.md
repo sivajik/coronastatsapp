@@ -1,6 +1,6 @@
 # coronastatsapp
 Spring &amp; Thymeleaf based app to report statuses of Corona spread in last 24 hours
 
-![Image description](src/main/resources/scorona.png)
+![Image description](https://github.com/sivajik/coronastatsapp/blob/master/src/main/resources/corona.png)
 
-![Alt text](src/main/resources/scorona.png?raw=true "Corona")
+![Alt text](https://github.com/sivajik/coronastatsapp/blob/master/src/main/resources/corona.png?raw=true "Corona")
